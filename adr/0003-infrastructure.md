@@ -1,4 +1,4 @@
-# 3. ./infrastructure
+# 1. Infrastructure
 
 Date: 2025-03-25
 
@@ -8,12 +8,12 @@ Accepted
 
 ## Context
 
-The issue motivating this decision, and any context that influences or constrains the decision.
+Для сервиса нам необходима надежная и отказоустойчивая инфраструктура за не высокую стоимость
 
 ## Decision
 
-The change that we're proposing or have agreed to implement.
+Пришли к тому, что лучшим вариантом будет использование облака
 
 ## Consequences
 
-What becomes easier or more difficult to do and any risks introduced by the change that will need to be mitigated.
+В случае проблем с сервисом мы будем не доступны (политические ограничения, ненадежность сервиса, проблемы с транс-атлантическими кабелями связи)     
